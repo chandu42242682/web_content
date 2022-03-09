@@ -24,7 +24,7 @@
 			<?php endif; ?>
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>" class="imprint">
 				<?php
-				/* translators: %s: WordPress. */
+				/* translators: %s: chandu. */
 				printf( __( 'Proudly powered by %s.', 'twentynineteen' ), 'WordPress' );
 				?>
 			</a>
