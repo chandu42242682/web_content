@@ -63,7 +63,7 @@
 			<div class="powered-by">
 				<?php
 				printf(
-					/* translators: %s: chandu */
+					/* translators: %s: thirupathi */
 					esc_html__( 'Proudly powered by %s.', 'twentytwentyone' ),
 					'<a href="' . esc_url( __( 'https://wordpress.org/', 'twentytwentyone' ) ) . '">WordPress</a>'
 				);
